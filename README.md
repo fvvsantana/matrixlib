@@ -1,17 +1,13 @@
-It's meant to be a humble C++ matrix(2d) library. Although, at least the following goals are desired to be achieved:
+I made this project to learn how to use templates, operator overloading and other overloadings in C++. This project is a library for matrix operations in C++. I'm glad that years after implementing it, this project was really useful in a bigger project of computer graphics.
 
--overload constructors, destructors, typecast and assign operators.
+The learned concepts in this project were:
 
--implement the +, -, /, *, [] and << operators.
+* Overloading of constructors, destructors, typecast and assign operators.
 
--use the templates to make generic functions about the data type (int, double, float, etc.).
+* Implementation of the +, -, /, \*, [], << and maybe more operators.
 
--implement a print function, try to create a standard identity matrix.
+* Use of templates to make generic functions that accepts flexible data types (int, double, float, etc.).
 
--use the standard rules in equations with different data-types.
+* How to create namespaces.
 
--change the sets and gets to the cpp file.
-
--overload == and != operator.
-
--make a c++11 version using the "auto" keyword.
+* CMake and Makefile.
