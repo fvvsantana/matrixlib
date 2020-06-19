@@ -1,6 +1,6 @@
 # Matrixlib
 
-I made this project to learn how to use templates, operator overloading andother overloadings in C++. This project is a library for matrix operations in C++. I'm glad that years after implementing it, this project was really useful in a bigger project of computer graphics.
+I made this project to learn how to use templates, operator overloading and other overloadings in C++. This project is a library for matrix operations in C++. I'm glad that years after implementing it, this project was really useful in a bigger project of computer graphics.
 
 The learned concepts in this project were:
 
